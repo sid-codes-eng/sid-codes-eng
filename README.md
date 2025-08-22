@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on improving my **Python** skills and solving problems on **LeetCode**
 - 🌱 I’m learning **Data Structures**, **Algorithms**, and **Backend Development**
 - 👯 I’m looking to collaborate on open-source Python projects
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/) | [Email](mailto:youremail@example.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/) | [Email](siddhrajmatade389@gmail.com)
 
 ---
 
